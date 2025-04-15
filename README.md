@@ -105,6 +105,10 @@ stats.ttest_ind(df10["City_Center"], df11["City_Center"], equal_var=False, alter
 These tests examine[1][2]:
 - Distance to city center by accommodation type
 - Metro distance differences by room type
+
+
+MAY ADD SOME VISUALIZATION USING IN-BUILT LIBRARIES LATER
+
 - Attraction index differences by person capacity
 - Restaurant index variations by room type
 - Normalized attraction/restaurant indices across different properties
