@@ -1,5 +1,4 @@
 # Airbnb-Analysis Using Python
-# This comprehensive analysis provides insights factors affecting Airbnb pricing, ratings and other key metrics accross different cities in Europe , room types and other listing characters.
 # Airbnb Data Analysis Code Explanation
 
 This code analyzes an Airbnb dataset using statistical methods including ANOVA, Tukey's HSD test, and t-tests to understand relationships between various listing characteristics. Below is a detailed explanation of each section.
@@ -111,10 +110,3 @@ These tests examine[1][2]:
 - Normalized attraction/restaurant indices across different properties
 
 The comprehensive analysis provides insights into factors affecting Airbnb pricing, ratings, and other key metrics across different cities, room types, and other listing characteristics[1][2].
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/47424942/6e5008b4-566f-4522-be11-4b199bb9b8e8/SSDI-PROJECT-3.1.html
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/47424942/6e5008b4-566f-4522-be11-4b199bb9b8e8/SSDI-PROJECT-3.1.html
-
----
-Answer from Perplexity: pplx.ai/share
